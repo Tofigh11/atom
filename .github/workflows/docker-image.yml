@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "master" ]
 
-jobs:
+jobs:[![Docker Image CI](https://github.com/Tofigh11/atom/actions/workflows/docker-image.yml/badge.svg?branch=master&event=create)](https://github.com/Tofigh11/atom/actions/workflows/docker-image.yml)
 
   build:
 
